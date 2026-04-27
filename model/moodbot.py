@@ -28,6 +28,10 @@ while True :
     messages.append(AIMessage(content = response.content))
     print("Bot : ",response.content)
 
+
+# streamlit version ->
+
+
 # from dotenv import load_dotenv
 # load_dotenv()
 
