@@ -8,5 +8,5 @@ streamlit version
 run in terminal ->
 
 ```
-streamlit run model/moodbot.py 
+streamlit run model/streamlit_version.py 
 ```
